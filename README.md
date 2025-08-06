@@ -8,10 +8,10 @@ I architect platforms that grow as fast as your vision — modular, maintainable
 
 ## 🧩 Current Focus Areas
 
-- 💳 **CS-Card** — Designing and developing a cashless transaction platform using smart card technology for institutions and organizations  
+- 💳 **CS Card Pay** — Designing and developing a cashless transaction platform using smart card technology for institutions and organizations  
 - 🏥 **Hospital MIS** — Building a highly configurable medical information system supporting dynamic department setup  
 - 💸 **Payment Gateway** — Engineering a secure and comprehensive payment gateway with full API coverage  
-- 📚 Mentoring developers and writing about clean architecture, modular design, and systems thinking
+- 📚 **PWA Ninjas** — Training High School students how to build Progressive Web Apps using HTML5, CSS3 and pure Vanilla JS using Single Page App architecture
 
 ---
 
@@ -20,8 +20,9 @@ I architect platforms that grow as fast as your vision — modular, maintainable
 **Frontend:** Vanilla JS • Web Components • TypeScript • React  
 **Backend:** Node.js • Express • PHP  
 **Databases:** PostgreSQL • MongoDB • Redis  
-**Cloud & Ops:** VPS • Docker • Nginx • GitHub Actions • CI/CD Pipelines  
-**Domains:** FinTech • MedTech • LegalTech • API Design
+**Cloud & Ops:** VPS • Docker • Nginx • Caddy • GitHub Actions • CI/CD Pipelines  
+**Domains:** FinTech • MedTech • LegalTech • Edu Tech
+**Systems:** API Designs & System Architecture
 
 ---
 
