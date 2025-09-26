@@ -8,10 +8,13 @@ I architect platforms that grow as fast as your vision — modular, maintainable
 
 ## 🧩 Current Focus Areas
 
-- 💳 **CS Card Pay** — Designing and developing a cashless transaction platform using smart card technology for institutions and organizations  [CSCardPay](https://www.cscardpay.com)
+- 💳 [CS Card Pay](https://www.cscardpay.com) — Designing and developing a cashless transaction platform using smart card technology for institutions and organizations  
+- 📚 [PWA Ninjas](https://www.pwaninjas.com) — Training High School students how to build Progressive Web Apps using HTML5, CSS3 and pure Vanilla JS using Single Page App architecture
+
+## 🧩 Other Areas
+
 - 🏥 **Hospital MIS** — Building a highly configurable medical information system supporting dynamic department setup  
 - 💸 **Payment Gateway** — Engineering a secure and comprehensive payment gateway with full API coverage  
-- 📚 **PWA Ninjas** — Training High School students how to build Progressive Web Apps using HTML5, CSS3 and pure Vanilla JS using Single Page App architecture  [PWA Ninjas](https://www.pwaninjas.com)
 
 ---
 
