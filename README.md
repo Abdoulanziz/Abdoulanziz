@@ -11,6 +11,7 @@ I architect platforms that grow as fast as your vision — modular, maintainable
 - 💳 [CS Card Pay](https://www.cscardpay.com) — Designing and developing a cashless transaction platform using smart card technology for institutions and organizations  
 - 📚 [PWA Ninjas](https://www.pwaninjas.com) — Training High School students how to build Progressive Web Apps using HTML5, CSS3 and pure Vanilla JS using Single Page App architecture
 - 🛍️ [Near Market](https://www.nearmarket.shop) — Building a location-aware digital marketplace that connects shoppers with nearby vendors
+- 🏖️ [Zanzibar Trips](https://www.zantrips.com) — Zanzibar travels experts for East Africans
 
 ## 🧩 Other Areas
 
